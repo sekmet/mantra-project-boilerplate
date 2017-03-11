@@ -3,6 +3,7 @@
 Project Boilerplate for MeteorJS (Mantra Arch.) 
 
 Mantra - https://github.com/kadirahq/mantra
+
 mantra-cli - https://github.com/mantrajs/mantra-cli
 
 #Contains:
