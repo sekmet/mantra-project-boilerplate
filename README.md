@@ -19,7 +19,8 @@ mantra-cli - https://github.com/mantrajs/mantra-cli
 3. Remove ALL files and folders except .meteor and .scripts
 4. Copy the "app" folder inside this repo and paste to your project.
 5. Put .meteor and .scripts folder inside the "app" folder.
-6. Paste the following text in your packages file inside your .meteor folder:
+6. Edit package.json name and description according to your app
+7. Paste the following text in your packages file inside your .meteor folder:
 
 ```
 # Meteor packages used by this project, one per line.
